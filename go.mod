@@ -1,4 +1,4 @@
-module github.com/brentlaster/op
+module github.com/brentlaster/roar-op
 
 go 1.13
 
